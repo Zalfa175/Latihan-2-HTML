@@ -1,0 +1,71 @@
+.head {
+    background-color:#DFF2FD;
+    height:250px;
+}
+
+.profile {
+    text-align: center;
+    padding: 50px 5px 10px 5px;
+}
+
+.profile > img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: 3px solid #197cb3;
+}
+
+.profile > h2 {
+    color: #167ab2;
+    margin-bottom: 2px;
+}
+
+.profile > p {
+    color: #8e898a;
+}
+
+.project {
+    height: 250px;
+}
+
+.services {
+    height: 200px;
+}
+
+.subtitle {
+    margin: 20px 10px;
+}
+
+.blue {
+    background-color: #DFF2FD;
+}
+
+.size {
+    height: 100%;
+    width: 350px;
+}
+
+.testimonial {
+    text-align: center;
+    color:#C3C3C3;
+}
+
+.label {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kotak {
+    border:2px solid #197cb3;
+}
+
+.send {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 20px;
+}
